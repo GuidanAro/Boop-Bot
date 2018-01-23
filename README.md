@@ -17,4 +17,15 @@ Current list of modules:
 <li>speak (allows for command line chat entry) 
 <li>insult 
 </ul> 
+
+<b>REQUIREMENTS</b>
+<ul>
+<li>discord.py (duh)
+<li>aiohttp
+<li>websockets
+<li>requests
+<li>re
+<li>BeautifulSoup4
+<li>praw (if you don't want to set up a reddit bot, delete the joke.py file)
+<li>dice
  
